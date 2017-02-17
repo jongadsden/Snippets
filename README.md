@@ -1,0 +1,2 @@
+# Snippets
+Snippet practise application
